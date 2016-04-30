@@ -1,0 +1,23 @@
+{
+  "name": "webpack-module-loaders",
+  "version": "1.0.0",
+  "description": "Webpack Module Loaders Run Through",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alajfit/webpack-module-loaders.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alajfit/webpack-module-loaders/issues"
+  },
+  "homepage": "https://github.com/alajfit/webpack-module-loaders#readme",
+  "devDependencies": {
+    "jquery": "^2.2.3",
+    "webpack": "^1.13.0"
+  }
+}
